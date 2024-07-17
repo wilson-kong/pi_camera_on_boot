@@ -7,4 +7,7 @@ Fullscreen preview of Raspberry Pi camera on bootup
 2. Navigate to `/etc/xdg/lxsession/LXDE-pi` and add this line to the bottom of the file `@/usr/bin/python /home/<user_name>/Documents/camera_preview_stream.py`. If your python is `python3` then do `@/usr/bin/python3 /home/<user_name>/Documents/camera_preview_stream.py`.
 
 
+
+
+
 based on this: https://forums.raspberrypi.com/viewtopic.php?t=352224
